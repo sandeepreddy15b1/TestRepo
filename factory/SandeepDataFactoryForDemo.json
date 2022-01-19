@@ -1,0 +1,9 @@
+{
+	"name": "SandeepDataFactoryForDemo",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5975fb8c-c014-49e4-8b5c-5668e30e3365",
+		"tenantId": "604c1504-c6a3-4080-81aa-b33091104187"
+	}
+}
